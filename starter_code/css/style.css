@@ -99,9 +99,9 @@ h2 {
   font-weight: 800;
   font-size: 14px;
   background-color: yellow;
-  text-align: center;
+  display: block;
   width: 100px;
-  margin: auto;
+  margin: 0 auto;
 
 }
 
